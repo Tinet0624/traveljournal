@@ -1,0 +1,24 @@
+.content{
+    width: 471px;
+    display: flex;
+    border-bottom: solid 1px rgb(208, 207, 207);
+    padding: 20px;
+}
+
+.pin{
+    height: 14px;
+    width: 14px;
+}
+
+.mapInfo{
+    display: flex;
+}
+
+.mapInfo > *{
+    padding-right: 5px;
+}
+
+.photo{
+    width: 200px;
+    border-radius: 10px;
+}
