@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <div className={navCss.content}>
         <img src={icon} className={navCss.icon}/>
-        <h3>Title here</h3>
+        <h3>My Travel Journal</h3>
     </div>
   )
 }
