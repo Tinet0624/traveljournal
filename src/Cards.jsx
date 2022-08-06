@@ -11,7 +11,7 @@ export default function Cards(props) {
           <div className={cardCss.mapInfo}>
               <img src={pin} className={cardCss.pin}/>
               <p>{props.item.state}</p>
-              <p>view on Google Maps</p>
+              <a href="" target="_blank"><p>view on Google Maps</p></a>
           </div>
           <p className={cardCss.title}>{props.item.title}</p>
           <p className={cardCss.date}>{props.item.date}</p>

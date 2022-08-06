@@ -8,3 +8,13 @@ This project is for using props with all training wheels taken off. We are taske
 Im trying to decide if I want to make it look exactly like theres or if I want to play with the css more. Though it might be the same so I can get on to more React concepts.
 <br><br>
 The goal here was to use react and CSS to recreate the template form [Figma](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal).
+<br>
+# My airbnb site
+<br>
+Here is how mine turned out.
+<br>
+
+![ReactIMG](./images/Preview.png)
+
+<br>
+I will update and post a live version later.
